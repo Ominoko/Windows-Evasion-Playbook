@@ -8,7 +8,7 @@ All code and techniques provided in this repository are strictly for **education
 ## Tactics Matrix
 
 ### User-Mode Hook Evasion
-- [ ] API Unhooking
+- [x] API Unhooking
 - [ ] Direct Syscalls
 - [ ] Indirect Syscalls
 - [ ] API Obfuscation
